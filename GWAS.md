@@ -1,34 +1,42 @@
 
-## Setting up the parameters ##
+#Genome Wide Association pipeline for Potato#
+
+*Calling libraries*
 
 ````{r}
-
    library(devtools)
    library(BGData)
    library(BGLR)
+````
+*Setting up the parameters*
 
-## Parameters
+````{r}
   rm(list=ls())
   setwd("/Users/fenciso/Desktop/Thesis/GWAS_GS/r")
   dataFile<-'LB_Z_GEN_PHEN.RData'
   GMatrixFile='G_TETRA.RData'
   mapFile='genos.RData'
   traitName<-"LB"
-
-###
-
-  load(dataFile)
-  load(GMatrixFile)
-  load(mapFile)
-
-## QC and subsetting of columns from X and rows from MAP
- 
+  
+## QC filter parameters
   scaleCol<-TRUE
   centerCol<-TRUE
   minMAF<-.03
   maxFreqNA.MRK<-.2
   maxFreqNA.Genos<-0.15
+````
+
+*Loading the files*
+
+````{r}
+  load(dataFile)
+  load(GMatrixFile)
+  load(mapFile)
   genoFile<-Z_filter2
+
+## QC and subsetting of columns from X and rows from MAP
+ 
+
 
 # Basic QC, removing markers based on MAF and % of NAs
  
