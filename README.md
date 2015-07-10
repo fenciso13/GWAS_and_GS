@@ -1,5 +1,5 @@
 # Potato_MSU
-[https://github.com/fenciso13/Potato_MSU/blob/master/Screen%20Shot%202015-07-10%20at%201.20.00%20PM.png]
+![ScreenShot](https://github.com/fenciso13/Potato_MSU/blob/master/Screen%20Shot%202015-07-10%20at%201.20.00%20PM.png)
 
 *This repository harbors a set of pipelenes with the objective to editing and proccessing pototo genotype and phenotype files for Genome Wide Association and Genome Selection analysis*
 ## Modules:##
