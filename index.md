@@ -1,3 +1,2 @@
-1. [data]
-2. [gwas]
-3. gs
+1. [data](https://github.com/fenciso13/Potato_MSU/blob/master/1.%20Data_processing.md)
+
