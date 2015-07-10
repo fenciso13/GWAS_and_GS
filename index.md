@@ -1,4 +1,4 @@
-
+*This repository harbors a set of pipelenes with the objective to editing and proccessing pototo genotype and phenotype files for Genome Wide Association and Genome Selection analysis*
 # Modules:#
 
 1. [Data processing](https://github.com/fenciso13/Potato_MSU/blob/master/1.%20Data_processing.md)
