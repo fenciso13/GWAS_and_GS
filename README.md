@@ -1,11 +1,10 @@
 ***
-<center> <h1>Potato breeding program, Michigan State University </h1> </center>
-###
-->Potato breeding program, Michigan State University<-
+<p align="center">
+<h1>Potato breeding program, Michigan State University </h1>
+</p>
+###Potato breeding program, Michigan State University<-
 ***
 *Data proccesing pipeline*
-
-->THIS TEXT IS IN THE CENTER!<-
 
 ![ScreenShot](https://github.com/fenciso13/GWAS_and_GS/blob/master/pdf/Pipeline.jpg)
 
