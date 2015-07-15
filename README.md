@@ -1,4 +1,5 @@
 # Potato breeding program, Michigan State University#
+*Pipeline*
 ![ScreenShot](https://github.com/fenciso13/GWAS_and_GS/blob/master/pdf/Pipeline.jpg)
 
 *This repository harbors a set of modules with the objective to editing and proccessing potato genotype and phenotype files for Genome Wide Association and Genome Selection analysis*
