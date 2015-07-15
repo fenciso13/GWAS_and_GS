@@ -1,5 +1,6 @@
+-----------------------------------------------------
 # Potato breeding program, Michigan State University#
-
+-----------------------------------------------------
 *Data proccesing pipeline*
 
 ![ScreenShot](https://github.com/fenciso13/GWAS_and_GS/blob/master/pdf/Pipeline.jpg)
