@@ -1,5 +1,5 @@
 ***
-##Potato breeding program, Michigan State University
+###Potato breeding program, Michigan State University
 ***
 *Data proccesing pipeline*
 
