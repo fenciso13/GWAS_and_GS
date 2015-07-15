@@ -1,5 +1,5 @@
 # Potato breeding program, Michigan State University#
-![ScreenShot](https://github.com/fenciso13/GWAS_and_GS/blob/master/pdf/IMG_1477.JPG)
+![ScreenShot](https://github.com/fenciso13/GWAS_and_GS/blob/master/pdf/Pipeline.pdf)
 
 (Source: Bader Alsubaie)
 
