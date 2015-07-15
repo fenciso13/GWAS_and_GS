@@ -1,7 +1,4 @@
 ***
-<p align="center">
-<h1>Potato breeding program, Michigan State University </h1>
-</p>
 ###Potato breeding program, Michigan State University<-
 ***
 *Data proccesing pipeline*
